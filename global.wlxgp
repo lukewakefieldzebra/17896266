@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GlobalPreferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ResourceList />
+  <ConfigPassword>
+    <Salt>4/pj0uz6P3FXrdryWYxG0w==</Salt>
+    <Hash>nhsf9g0vzSoVESoe8FCt/bPqpI0=</Hash>
+    <IsValid>true</IsValid>
+  </ConfigPassword>
+  <ExitPassword>
+    <Salt>R4kmtWnVnmpdB+X3BVm/wQ==</Salt>
+    <Hash>RdCS2xMc+3BIltVo2NKztv4UpOI=</Hash>
+    <IsValid>true</IsValid>
+  </ExitPassword>
+  <MaximumSessions>4</MaximumSessions>
+  <HamburgerHideExit>true</HamburgerHideExit>
+  <RemoveDemoProfile>false</RemoveDemoProfile>
+  <CollectTelemetry>true</CollectTelemetry>
+  <LockTaskMode>false</LockTaskMode>
+  <EnableDiagnosticKeyTestMode>false</EnableDiagnosticKeyTestMode>
+  <DeletePhotosOnExit>false</DeletePhotosOnExit>
+  <DebugLoggingLevel>2</DebugLoggingLevel>
+  <TerminateOnExit>false</TerminateOnExit>
+</GlobalPreferences>
